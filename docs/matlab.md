@@ -14,6 +14,7 @@ MATLAB 是 `matrix laboratory` 的缩写形式
 
 - [MATLAB 官网](https://www.mathworks.com)
 - [MATLAB 官网(中文)](https://ww2.mathworks.cn/)
+- [MATLAB Online](https://uk.mathworks.com/products/matlab-online.html)
 
 ### 矩阵和数组运算
 <!--rehype:wrap-class=row-span-3-->
@@ -1409,6 +1410,12 @@ true 或 false 条件
 [thingSpeakRead](https://ww2.mathworks.cn/help/matlab/ref/thingspeakread.html) | 读取存储在 `ThingSpeak` 通道中的数据
 [thingSpeakWrite](https://ww2.mathworks.cn/help/matlab/ref/thingspeakwrite.html) | 将数据写入 `ThingSpeak` 通道
 <!--rehype:className=style-list-->
+
+### Help
+:- | :-
+:- | :-
+help name |  在当前GUI中打开帮助文档
+doc name  |  打开GUI帮助文档
 
 另见
 ----
